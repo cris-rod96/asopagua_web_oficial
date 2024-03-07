@@ -1,0 +1,12 @@
+<?php
+define('URL','http://localhost/asopagua_oficial/');
+define('CTRL','controllers/');
+define('MDL','models/');
+define('VW','views/');
+define('MOD','modulos/');
+define('HOST','localhost');
+define('USER_DB','root');
+define('PASSWORD_DB','1234567');
+define('CHARSET','utf8mb4');
+define('DB_NAME','asopagua_db');
+?>
